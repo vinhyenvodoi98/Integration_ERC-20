@@ -1,0 +1,25 @@
+{
+  "name": "IntegrationERC20",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinhyenvodoi98/Integration_ERC-20.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinhyenvodoi98/Integration_ERC-20/issues"
+  },
+  "homepage": "https://github.com/vinhyenvodoi98/Integration_ERC-20#readme",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.0.43",
+    "dotenv": "^8.2.0",
+    "truffle": "^5.1.42"
+  }
+}
